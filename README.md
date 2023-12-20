@@ -26,6 +26,9 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+Usage Example: 
+![usage example](images/example.jpeg)
+
 ## Installation
 
 ```bash
